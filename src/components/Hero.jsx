@@ -1,6 +1,6 @@
 import React from "react";
 import Sec from "./Sec";
-// import Picked from "./Picked";
+import Picked from "./Picked";
 
 const Hero = () => {
   return (
@@ -46,7 +46,7 @@ const Hero = () => {
         </div>
       </div>
       <Sec />
-      {/* <Picked/> */}
+      <Picked/>
     </div>
   );
 };
