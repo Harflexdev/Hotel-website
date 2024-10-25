@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link, Outlet } from "react-router-dom"
 import { Menu, X } from 'lucide-react'
+import Footer from './components/Footer'
 
 export default function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -50,6 +51,7 @@ export default function App() {
       <main className="flex-grow">
         <Outlet />
       </main>
+      <Footer/>
     </div>
   )
 }

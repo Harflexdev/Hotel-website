@@ -1,6 +1,7 @@
 import React from "react";
 import Sec from "./Sec";
 import Picked from "./Picked";
+import Pickedd from "./Pickedd";
 
 const Hero = () => {
   return (
@@ -47,6 +48,7 @@ const Hero = () => {
       </div>
       <Sec />
       <Picked/>
+      <Pickedd/>
     </div>
   );
 };

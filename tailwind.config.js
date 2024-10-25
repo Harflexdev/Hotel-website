@@ -22,6 +22,10 @@ module.exports = {
         img3: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729875996/pic_3_jye6iy.png')", 
         img4: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729876129/pic_2_gfjxmy.png')", 
         img5: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729876076/pic_4_y1kzoc.png')", 
+        img6: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729884381/Rectangle_3_2_amti6r.png')", 
+        img7: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729884345/Rectangle_3_4_f3mviv.png)", 
+
+        img14: "url('https://res.cloudinary.com/dicxuebms/image/upload/v1729884345/Rectangle_3_4_f3mviv.png')", 
       }
     },
   },
